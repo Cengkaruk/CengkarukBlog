@@ -50,3 +50,7 @@ Langsung saja, silahkan ditonton dan semoga bermanfaat.
 <center>
 <script type="text/javascript" src="https://asciinema.org/a/4x82ohc6rblasjx6oa8igox3c.js" id="asciicast-4x82ohc6rblasjx6oa8igox3c" async></script>
 </center>
+
+<center>
+<script type="text/javascript" src="https://asciinema.org/a/68oqu6seu4jd6yr5g8xkaf474.js" id="asciicast-68oqu6seu4jd6yr5g8xkaf474" async></script>
+</center>

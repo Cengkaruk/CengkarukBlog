@@ -147,7 +147,6 @@ DEPENDENCIES
   jekyll
   jekyll-feed
   jekyll-gist
-  jekyll-mentions
   jekyll-seo-tag
   jekyll-sitemap
   jemoji

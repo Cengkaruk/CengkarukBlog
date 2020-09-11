@@ -1,6 +1,6 @@
 # main text of home
 name: Aji Kisworo Mukti
-bio: Cengkaruk [Cheng-ka-rook] noun. Handsome; A man who loves typing magical words; An organism capable of sleep more than 8 hours. The lord who says "The internet is serious business. Very serious"
+bio: Cengkaruk [Cheng-ka-rook]. Over 10 years experience in Software Engineering. Area of expertise is in Product and System Requirement Architecture. Born and live in Yogyakarta. Own a polyglot abilities that is considering as an assets.
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -46,11 +46,11 @@ github: Cengkaruk
 email: aji.kisworo.mukti@gmail.com
 
 authors:
-    aji:
-      name: Aji Kisworo Mukti
-      bio: Cengkaruk [Cheng-ka-rook] noun. Handsome; A man who loves typing magical words; An organism capable of sleep more than 8 hours. The lord who says "The internet is serious business. Very serious"
-      external-image: false
-      picture: assets/images/aji.png
+  aji:
+    name: Aji Kisworo Mukti
+    bio: Cengkaruk [Cheng-ka-rook]. Over 10 years experience in Software Engineering. Area of expertise is in Product and System Requirement Architecture. Born and live in Yogyakarta. Own a polyglot abilities that is considering as an assets.
+    external-image: false
+    picture: assets/images/aji.png
 #    johndoe:
 #        name: John Doe
 #        bio: A Man who travels the world eating noodles

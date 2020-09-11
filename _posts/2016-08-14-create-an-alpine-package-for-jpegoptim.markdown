@@ -3,14 +3,14 @@ title: "Create an Alpine package for jpegoptim"
 layout: post
 date: 2016-08-14 18:36
 image: '/assets/images/'
+headerImage: false
 description:
 tag:
 - linux
 - alpine
 - docker
 - devops
-blog: true
-jemoji:
+category: blog
 author: aji
 ---
 

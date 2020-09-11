@@ -8,7 +8,7 @@ bio: Cengkaruk [Cheng-ka-rook]. Over 10 years experience in Software Engineering
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/aji.png
+picture: assets/images/aji.jpg
 
 url: https://cengkaruk.com
 # your url: http://USERNAME.github.io
@@ -50,7 +50,7 @@ authors:
     name: Aji Kisworo Mukti
     bio: Cengkaruk [Cheng-ka-rook]. Over 10 years experience in Software Engineering. Area of expertise is in Product and System Requirement Architecture. Born and live in Yogyakarta. Own a polyglot abilities that is considering as an assets.
     external-image: false
-    picture: assets/images/aji.png
+    picture: assets/images/aji.jpg
 #    johndoe:
 #        name: John Doe
 #        bio: A Man who travels the world eating noodles

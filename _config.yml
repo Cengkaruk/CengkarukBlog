@@ -32,7 +32,7 @@ permalink: /:title/
 disqus: cengkaruk
 
 # if you don't have any of social below, comment the line
-facebook: AjiKisworoMukti
+# facebook: AjiKisworoMukti
 twitter: Cengkaruk
 # google: mygoogle
 # instagram: myinstagram
@@ -40,7 +40,7 @@ twitter: Cengkaruk
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-# github: mygithub
+github: Cengkaruk
 # medium: medium
 # vimeo: myvimeo
 email: aji.kisworo.mukti@gmail.com

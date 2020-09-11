@@ -1,13 +1,12 @@
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 
-gem 'github-pages'
-gem 'rake'
-gem 'rouge'
-gem 'pygments.rb'
-gem 'jekyll'
-gem 'html-proofer'
-gem 'jemoji'
-gem 'jekyll-seo-tag'
-gem 'jekyll-feed'
-gem 'jekyll-sitemap'
-gem 'jekyll-gist'
+group :jekyll_plugins do
+    gem 'github-pages'
+    gem 'jekyll-admin'
+    gem 'jekyll-seo-tag'
+    gem 'jekyll-gist'
+    gem 'jekyll-feed'
+    gem 'jemoji'
+    gem "jekyll-paginate-v2", "~> 2.0"
+    gem "html-proofer"
+end

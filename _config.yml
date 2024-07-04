@@ -1,6 +1,6 @@
 # main text of home
 name: Aji Kisworo Mukti
-bio: Cengkaruk [Cheng-ka-rook]. Step right up, folks! I'm a seasoned software engineer with over a decade of experience. I was born and raised in the vibrant city of Yogyakarta, and my polyglot abilities are a true asset. With 10+ years of solving complex software problems and the ability to easily switch between programming languages, I bring a fun and unique approach to every project I tackle. So, let's make some amazing software together!
+bio: I'm Aji, when I'm not coding up a storm, I'm probably experimenting with the latest tech or juggling coffee cups. From leading epic tech teams to creating quirky apps and bots, I love making stuff happen. Wanna join the chaos?
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -33,22 +33,22 @@ disqus: cengkaruk
 
 # if you don't have any of social below, comment the line
 # facebook: AjiKisworoMukti
-twitter: Cengkaruk
+# twitter: Cengkaruk
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: Cengkaruk
+# github: Cengkaruk
 # medium: medium
 # vimeo: myvimeo
-email: aji.kisworo.mukti@gmail.com
+# email: aji.kisworo.mukti@gmail.com
 
 authors:
   aji:
     name: Aji Kisworo Mukti
-    bio: Cengkaruk [Cheng-ka-rook]. Step right up, folks! I'm a seasoned software engineer with over a decade of experience. I was born and raised in the vibrant city of Yogyakarta, and my polyglot abilities are a true asset. With 10+ years of solving complex software problems and the ability to easily switch between programming languages, I bring a fun and unique approach to every project I tackle. So, let's make some amazing software together!
+    bio: I'm Aji, when I'm not coding up a storm, I'm probably experimenting with the latest tech or juggling coffee cups. From leading epic tech teams to creating quirky apps and bots, I love making stuff happen. Wanna join the chaos?
     external-image: false
     picture: assets/images/aji.jpg
 #    johndoe:
